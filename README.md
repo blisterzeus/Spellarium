@@ -205,4 +205,4 @@ This repository serves as the official landing page for Spellarium. The software
 **Get the most recent version of Spellarium today!**
 
 ---
-**Last updated:** 2026-11-13 18:23:03 UTC
+**Last updated:** 2026-11-14 00:09:56 UTC
